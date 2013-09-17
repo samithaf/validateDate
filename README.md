@@ -7,18 +7,19 @@ Dependecies:
 jQuery 1.9+
 
 Supported date formats:
-  1/1/12
-  01/01/2012
-  Jan 1 12
-  Jan 1 2012
-  1.1.12
-  1-1-12
-  1 Jan 12
-  January 1 2012
-  Jan 1
-  1 Jan
-  1st Jan
-
+  <ul>
+  <li>1/1/12</li>
+  <li>01/01/2012</li>
+  <li>Jan 1 12</li>
+  <li>Jan 1 2012</li>
+  <li>1.1.12</li>
+  <li>1-1-12</li>
+  <li>1 Jan 12</li>
+  <li>January 1 2012</li>
+  <li>Jan 1</li>
+  <li>1 Jan</li>
+  <li>1st Jan</li>
+  </ul>
 How to use:
 
 init the plugin:
