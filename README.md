@@ -34,6 +34,6 @@ $('input-selector').bind('blur',function(ev){
 });
 </code>
 <p>
-Ib above example validate public method will return a date object if the input is valid otherwise it will be null.
+In above example validate public method will return a date object if the input is valid otherwise it will be null.
 </p>
 
