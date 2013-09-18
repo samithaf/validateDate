@@ -23,13 +23,15 @@ Supported date formats:
 How to use:
 
 init the plugin:
-
+<code>
 $('input-selector').validateDate();
+</code>
 
 Use validate public method in any event that you want to validate the the field
-
+<code>
 $('input-selector').bind('blur',function(ev){
   var isDate = $(this).validateDate('validate');
   // validate public method will return a date object if the input is valid otherwise it will be null.
-})
+});
+</code>
 
