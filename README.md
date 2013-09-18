@@ -1,5 +1,4 @@
-validateDate
-============
+<h1>Validate Date</h1>
 
 Multi-format date validate plug-in for jQuery
 
